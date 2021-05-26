@@ -1,0 +1,16 @@
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.exe
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.deps.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.runtimeconfig.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.runtimeconfig.dev.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\ref\idade em semanas.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\bin\Debug\net5.0\idade em semanas.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.csprojAssemblyReference.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.AssemblyInfoInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.AssemblyInfo.cs
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.csproj.CoreCompileInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\ref\idade em semanas.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\idade em semanas\obj\Debug\net5.0\idade em semanas.genruntimeconfig.cache

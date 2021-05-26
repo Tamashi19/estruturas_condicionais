@@ -1,0 +1,16 @@
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.exe
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.deps.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.runtimeconfig.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.runtimeconfig.dev.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\ref\+ 30% de salario.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\bin\Debug\net5.0\+ 30% de salario.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.csprojAssemblyReference.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.AssemblyInfoInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.AssemblyInfo.cs
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.csproj.CoreCompileInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\ref\+ 30% de salario.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\estrutura condicional\+ 30% de salario\obj\Debug\net5.0\+ 30% de salario.genruntimeconfig.cache
